@@ -1,6 +1,6 @@
-# Análisis de Películas en Netflix
+# Análisis de fuga de clientes en movistar
 
-![Netflix Movies](https://images.unsplash.com/photo-1611162617474-5b21e879e113)
+![Netflix Movies](https://www.comunidad-ola.com/portal/index.php/operadores/14932-movistar-comienza-el-ano-con-nuevas-aplicaciones-y-mas-cobertura-en-colombia)
 
 ## Descripción
 Este proyecto analiza datos de películas disponibles en Netflix, enfocándose en géneros, duración, calificaciones y tendencias de contenido para identificar patrones dentro de la plataforma.
